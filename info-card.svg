@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="370" viewBox="0 0 490 370" role="img" aria-labelledby="title">
+<title id="title">Mukund Wuppalapati — Game and Systems Designer</title>
+<rect width="490" height="370" rx="12" fill="#0d1117"/>
+<path d="M0 40H490" stroke="#30363d"/>
+<style>text{font-family:monospace;font-size:12px;fill:#c9d1d9}.line{animation:print .45s both}@keyframes print{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:translateX(0)}}@media(prefers-reduced-motion:reduce){.line{animation:none}}</style>
+<circle cx="18" cy="20" r="4" fill="#ff5f57"/><circle cx="32" cy="20" r="4" fill="#febc2e"/><circle cx="46" cy="20" r="4" fill="#28c840"/>
+<text x="67" y="24">mukund@github ~ $ neofetch</text>
+<text x="20" y="70" style="font-size:19px;fill:#f0f6fc">Mukund Wuppalapati</text>
+<text x="20" y="91" style="fill:#39d353">Designing systems that feel good to play.</text>
+<g class="line" style="animation-delay:0.20s"><text x="20" y="124" style="fill:#39d353">Role</text><text x="110" y="124">Game &amp; Systems Designer</text></g>
+<g class="line" style="animation-delay:0.32s"><text x="20" y="147" style="fill:#39d353">Focus</text><text x="110" y="147">Gameplay loops · Progression · UX/UI</text></g>
+<g class="line" style="animation-delay:0.44s"><text x="20" y="170" style="fill:#39d353">Now</text><text x="110" y="170">MSc Game Design</text></g>
+<g class="line" style="animation-delay:0.56s"><text x="20" y="193" style="fill:#39d353"></text><text x="110" y="193">Staffordshire University</text></g>
+<g class="line" style="animation-delay:0.68s"><text x="20" y="216" style="fill:#39d353">Prev</text><text x="110" y="216">B.Tech Computer Science · KL University</text></g>
+<g class="line" style="animation-delay:0.80s"><text x="20" y="239" style="fill:#39d353">Stack</text><text x="110" y="239">Unreal Engine 5 · Blueprints · Unity</text></g>
+<g class="line" style="animation-delay:0.92s"><text x="20" y="262" style="fill:#39d353">Building</text><text x="110" y="262">Paws &amp; Parcels</text></g>
+<g class="line" style="animation-delay:1.04s"><text x="20" y="285" style="fill:#39d353"></text><text x="110" y="285">A stylized animal delivery game</text></g>
+<g class="line" style="animation-delay:1.16s"><text x="20" y="308" style="fill:#39d353">Highlights</text><text x="110" y="308">Mayavi Club game-design masterclasses</text></g>
+<g class="line" style="animation-delay:1.28s"><text x="20" y="331" style="fill:#39d353">Interests</text><text x="110" y="331">Game systems · UI · Web</text></g>
+</svg>
